@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.infinite_list_flutter_bloc">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="infinite_list_flutter_bloc"
         android:name="${applicationName}"
